@@ -1,4 +1,4 @@
-//C program to toggle blue LED using Timer periodic interrupts for the first example
+//C program to toggle blue LED using Timer periodic interrupt
 #include "TM4C123.h"
 
 #define RED 0x02
